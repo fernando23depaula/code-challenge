@@ -1,4 +1,4 @@
-#Iniciando o sistema
+Iniciando o sistema
 
 O sistema pode rodar em qualquer navegador e não depende de servidor para rodar.
 
