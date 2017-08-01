@@ -1,0 +1,36 @@
+p{
+  margin:0;
+}
+form{
+  display: inline-block;
+  margin:10px 0;
+}
+
+ #map_content {
+    height: 400px;
+    margin: 10px 0;
+    margin-bottom:50px;
+}
+#map_content iframe{
+  width: 100%;
+}
+
+#dadosVilao {
+  max-width: 200px;
+  margin: 13px auto;
+}
+
+.destaques{
+  color:#0374c2;
+}
+.localizacaoVilao{
+  margin:0 0 7px 0;
+  font-weight: bold;
+  color:;
+}
+@media screen and (max-width: 768px) {
+  #enviarDados{
+    float:right;
+    margin-right: 15px;
+  }
+}
